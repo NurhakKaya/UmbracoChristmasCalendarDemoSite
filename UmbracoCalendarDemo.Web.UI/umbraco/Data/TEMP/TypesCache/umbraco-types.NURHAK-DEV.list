@@ -96,6 +96,10 @@ Umbraco.Cms.Core.Actions.ActionSort, Umbraco.Core, Version=9.1.1.0, Culture=neut
 Umbraco.Cms.Core.Actions.ActionToPublish, Umbraco.Core, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Cms.Core.Actions.ActionUnpublish, Umbraco.Core, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Cms.Core.Actions.ActionUpdate, Umbraco.Core, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.Controllers.TestFormController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.Controllers.UmbracoCalendarDemoBaseSurfaceController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.Controllers.Render.TestController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.Controllers.Render.UmbracoCalendarDemoBaseRenderController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.ContactFormController, Umbraco.SampleSite, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.StarterKitComposer, Umbraco.SampleSite, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.Migrations.ImportPackageXmlMigration, Umbraco.SampleSite, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -411,6 +415,8 @@ Umbraco.Cms.Web.BackOffice.Controllers.UsersController, Umbraco.Web.BackOffice, 
 
 Umbraco.Cms.Web.Website.Controllers.SurfaceController
 
+UmbracoCalendarDemo.Web.Controllers.TestFormController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.Controllers.UmbracoCalendarDemoBaseSurfaceController, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.ContactFormController, Umbraco.SampleSite, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Cms.Web.Website.Controllers.UmbLoginController, Umbraco.Web.Website, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Cms.Web.Website.Controllers.UmbLoginStatusController, Umbraco.Web.Website, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null
@@ -545,4 +551,30 @@ Umbraco.Cms.Web.BackOffice.Trees.TemplatesTreeController, Umbraco.Web.BackOffice
 Umbraco.Cms.Core.Packaging.PackageMigrationPlan
 
 Umbraco.SampleSite.Migrations.StarterKitPackageMigrationPlan, Umbraco.SampleSite, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Umbraco.Cms.Core.Models.PublishedContent.PublishedElementModel
+
+UmbracoCalendarDemo.Web.UmbracoModels.Feature, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Umbraco.Cms.Core.Models.PublishedContent.PublishedContentModel
+
+UmbracoCalendarDemo.Web.UmbracoModels.Blog, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Blogpost, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Contact, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.ContentBase, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.ContentPage, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.File, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Folder, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Home, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Image, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Member, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.NavigationBase, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.People, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Person, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Product, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.Products, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.UmbracoMediaArticle, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.UmbracoMediaAudio, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.UmbracoMediaVectorGraphics, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+UmbracoCalendarDemo.Web.UmbracoModels.UmbracoMediaVideo, UmbracoCalendarDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 
