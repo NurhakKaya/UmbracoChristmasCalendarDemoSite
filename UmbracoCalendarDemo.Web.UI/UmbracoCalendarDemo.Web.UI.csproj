@@ -9,6 +9,7 @@
 
     <ItemGroup>
         <PackageReference Include="Umbraco.Cms" Version="9.1.1" />
+        <PackageReference Include="Umbraco.TheStarterKit" Version="9.0.0" />
     </ItemGroup>
 
 
