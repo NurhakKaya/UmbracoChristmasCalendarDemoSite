@@ -13,4 +13,10 @@
     <ProjectReference Include="..\UmbracoCalendarDemo.Common\UmbracoCalendarDemo.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Components\" />
+    <Folder Include="Models\" />
+    <Folder Include="UmbracoModels\" />
+  </ItemGroup>
+
 </Project>
