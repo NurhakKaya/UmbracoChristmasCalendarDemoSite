@@ -9,6 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoCalendarDemo.Web", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoCalendarDemo.Common", "UmbracoCalendarDemo.Common\UmbracoCalendarDemo.Common.csproj", "{8653728D-85E8-4495-838A-9A8BB44A02F1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UmbracoCalendarDemo.Tests", "UmbracoCalendarDemo.Tests", "{AD33A4CB-6D3A-48E9-92DC-9B9FAD2A65D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UmbracoCalendarDemo.Api", "UmbracoCalendarDemo.Api", "{35FB2CC7-F0FA-4B24-BFE1-7DBBE5DB8797}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SupportingFiles", "SupportingFiles", "{D27F3E18-33AB-4E62-9A1D-702714257C76}"
+	ProjectSection(SolutionItems) = preProject
+		UmbracoCalendarDemo.bak = UmbracoCalendarDemo.bak
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
